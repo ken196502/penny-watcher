@@ -1,0 +1,2009 @@
+{
+ "account": {
+  "cash": 0.49199999999999733,
+  "started": "2026-11-04"
+ },
+ "last_date": "2026-11-12",
+ "arms": [
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-22",
+   "age_days": 15
+  },
+  {
+   "ticker": "VRDN",
+   "etf": "XBI",
+   "signal": "hist_turn_up_below_zero",
+   "etf_fire": "2026-10-26",
+   "age_days": 13
+  },
+  {
+   "ticker": "NUAI",
+   "etf": "XOP",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-05",
+   "age_days": 28
+  },
+  {
+   "ticker": "ANRO",
+   "etf": "XPH",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "GO",
+   "etf": "XRT",
+   "signal": "near_ma50",
+   "etf_fire": "2026-10-23",
+   "age_days": 14
+  },
+  {
+   "ticker": "JBLU",
+   "etf": "JETS",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "ICLR",
+   "etf": "BBH",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-14",
+   "age_days": 21
+  },
+  {
+   "ticker": "LBRX",
+   "etf": "XPH",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "LBRX",
+   "etf": "XPH",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "LBRX",
+   "etf": "XPH",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "APPN",
+   "etf": "XSW",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "TNDM",
+   "etf": "XHE",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-22",
+   "age_days": 15
+  },
+  {
+   "ticker": "CIEN",
+   "etf": "XLK",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-08",
+   "age_days": 25
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-13",
+   "age_days": 22
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-13",
+   "age_days": 22
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-13",
+   "age_days": 22
+  },
+  {
+   "ticker": "TE",
+   "etf": "XSD",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-10-06",
+   "age_days": 27
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "ma20_slope_up",
+   "etf_fire": "2026-10-08",
+   "age_days": 25
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "QURE",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "age_days": 10
+  },
+  {
+   "ticker": "ACHV",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "age_days": 9
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "CVI",
+   "etf": "XOP",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-07",
+   "age_days": 26
+  },
+  {
+   "ticker": "CVI",
+   "etf": "XOP",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-07",
+   "age_days": 26
+  },
+  {
+   "ticker": "CVI",
+   "etf": "XOP",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-07",
+   "age_days": 26
+  },
+  {
+   "ticker": "APPN",
+   "etf": "XSW",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "CLYM",
+   "etf": "XBI",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "cross_5_20_up",
+   "etf_fire": "2026-10-26",
+   "age_days": 13
+  },
+  {
+   "ticker": "QDEL",
+   "etf": "XHE",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "MRAM",
+   "etf": "XSD",
+   "signal": "vol_dryup",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "SATL",
+   "etf": "XAR",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "INTC",
+   "etf": "SMH",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-08",
+   "age_days": 25
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "age_days": 10
+  },
+  {
+   "ticker": "SLDB",
+   "etf": "XBI",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "MRNA",
+   "etf": "BBH",
+   "signal": "ma20_slope_up",
+   "etf_fire": "2026-10-08",
+   "age_days": 25
+  },
+  {
+   "ticker": "SPT",
+   "etf": "XSW",
+   "signal": "breakout_55d",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "CRL",
+   "etf": "BBH",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-14",
+   "age_days": 21
+  },
+  {
+   "ticker": "CRL",
+   "etf": "BBH",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-14",
+   "age_days": 21
+  },
+  {
+   "ticker": "TNGX",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "age_days": 10
+  },
+  {
+   "ticker": "HUBS",
+   "etf": "XSW",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "CIEN",
+   "etf": "XLK",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "CRWV",
+   "etf": "ARKK",
+   "signal": "vol_surge_1.5x",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "QDEL",
+   "etf": "XHE",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "ICLR",
+   "etf": "BBH",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-14",
+   "age_days": 21
+  },
+  {
+   "ticker": "ICLR",
+   "etf": "BBH",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-14",
+   "age_days": 21
+  },
+  {
+   "ticker": "BRZE",
+   "etf": "XSW",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "BRZE",
+   "etf": "XSW",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "BRZE",
+   "etf": "XSW",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "IBRX",
+   "etf": "XBI",
+   "signal": "cross_5_20_up",
+   "etf_fire": "2026-10-26",
+   "age_days": 13
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "cross_5_20_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "GTLB",
+   "etf": "XSW",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "GTLB",
+   "etf": "XSW",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "CVI",
+   "etf": "XOP",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-06",
+   "age_days": 27
+  },
+  {
+   "ticker": "CVI",
+   "etf": "XOP",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-06",
+   "age_days": 27
+  },
+  {
+   "ticker": "CVI",
+   "etf": "XOP",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-05",
+   "age_days": 28
+  },
+  {
+   "ticker": "CRDO",
+   "etf": "XSD",
+   "signal": "vol_dryup",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "TWLO",
+   "etf": "XLK",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "RPD",
+   "etf": "XSW",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "VIA",
+   "etf": "XSW",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "VIA",
+   "etf": "XSW",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "VIA",
+   "etf": "XSW",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "ABSI",
+   "etf": "XBI",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "ALGM",
+   "etf": "XSD",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-10-06",
+   "age_days": 27
+  },
+  {
+   "ticker": "RNG",
+   "etf": "XSW",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "RNG",
+   "etf": "XSW",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "CDNA",
+   "etf": "XBI",
+   "signal": "tight_range_10d",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "GDYN",
+   "etf": "XSW",
+   "signal": "vol_surge_1.5x",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "APPN",
+   "etf": "XSW",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "GDYN",
+   "etf": "XSW",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "GDYN",
+   "etf": "XSW",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "LBRX",
+   "etf": "XPH",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "SPT",
+   "etf": "XSW",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "TRVI",
+   "etf": "XPH",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "TRVI",
+   "etf": "XPH",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "TRVI",
+   "etf": "XPH",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "MARA",
+   "etf": "XSW",
+   "signal": "vol_surge_1.5x",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "SNDK",
+   "etf": "XLK",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "QURE",
+   "etf": "XBI",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "QURE",
+   "etf": "XBI",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "QURE",
+   "etf": "XBI",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "ELVN",
+   "etf": "XPH",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-27",
+   "age_days": 12
+  },
+  {
+   "ticker": "ELVN",
+   "etf": "XPH",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-27",
+   "age_days": 12
+  },
+  {
+   "ticker": "EWTX",
+   "etf": "XPH",
+   "signal": "vol_surge_2x",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "LQDA",
+   "etf": "XPH",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "QDEL",
+   "etf": "XHE",
+   "signal": "hist_turn_up_below_zero",
+   "etf_fire": "2026-10-19",
+   "age_days": 18
+  },
+  {
+   "ticker": "ANRO",
+   "etf": "XPH",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "ANRO",
+   "etf": "XPH",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "ANRO",
+   "etf": "XPH",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "SEPN",
+   "etf": "XPH",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-27",
+   "age_days": 12
+  },
+  {
+   "ticker": "SEPN",
+   "etf": "XPH",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-27",
+   "age_days": 12
+  },
+  {
+   "ticker": "TXG",
+   "etf": "ARKK",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "TXG",
+   "etf": "ARKK",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "AAL",
+   "etf": "JETS",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "APPN",
+   "etf": "XSW",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "WDC",
+   "etf": "XLK",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-08",
+   "age_days": 25
+  },
+  {
+   "ticker": "MTSI",
+   "etf": "XSD",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-08",
+   "age_days": 25
+  },
+  {
+   "ticker": "CIEN",
+   "etf": "XLK",
+   "signal": "vol_surge_1.5x",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "TENB",
+   "etf": "XSW",
+   "signal": "cross_5_20_up",
+   "etf_fire": "2026-10-06",
+   "age_days": 27
+  },
+  {
+   "ticker": "FLY",
+   "etf": "XAR",
+   "signal": "above_ma10",
+   "etf_fire": "2026-10-26",
+   "age_days": 13
+  },
+  {
+   "ticker": "TE",
+   "etf": "XSD",
+   "signal": "vol_dryup",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "NVAX",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "age_days": 10
+  },
+  {
+   "ticker": "LRCX",
+   "etf": "SMH",
+   "signal": "ma_coil_5pct",
+   "etf_fire": "2026-10-15",
+   "age_days": 20
+  },
+  {
+   "ticker": "PGEN",
+   "etf": "XBI",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "PGEN",
+   "etf": "XBI",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "PGEN",
+   "etf": "XBI",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "WULF",
+   "etf": "XSW",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "AXON",
+   "etf": "XAR",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "IMMX",
+   "etf": "XBI",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-30",
+   "age_days": 9
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "ASAN",
+   "etf": "XSW",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "CRCL",
+   "etf": "XSW",
+   "signal": "vol_surge_2x",
+   "etf_fire": "2026-10-27",
+   "age_days": 12
+  },
+  {
+   "ticker": "VRDN",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "age_days": 10
+  },
+  {
+   "ticker": "BE",
+   "etf": "XLI",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "TTAN",
+   "etf": "XSW",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "TTAN",
+   "etf": "XSW",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "TTAN",
+   "etf": "XSW",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-20",
+   "age_days": 17
+  },
+  {
+   "ticker": "GLW",
+   "etf": "XLK",
+   "signal": "near_ma50",
+   "etf_fire": "2026-10-28",
+   "age_days": 11
+  },
+  {
+   "ticker": "HUBS",
+   "etf": "XSW",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "LUNR",
+   "etf": "XAR",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-02",
+   "age_days": 8
+  },
+  {
+   "ticker": "CGEM",
+   "etf": "XBI",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "CGEM",
+   "etf": "XBI",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "CGEM",
+   "etf": "XBI",
+   "signal": "hist_positive",
+   "etf_fire": "2026-10-21",
+   "age_days": 16
+  },
+  {
+   "ticker": "GRAL",
+   "etf": "XBI",
+   "signal": "ma20_slope_up",
+   "etf_fire": "2026-11-03",
+   "age_days": 7
+  },
+  {
+   "ticker": "AXON",
+   "etf": "XAR",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-11-03",
+   "age_days": 7
+  },
+  {
+   "ticker": "STTK",
+   "etf": "XBI",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-03",
+   "age_days": 7
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "TNGX",
+   "etf": "XBI",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "BFLY",
+   "etf": "XHE",
+   "signal": "breakout_55d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "TWST",
+   "etf": "XBI",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "KOD",
+   "etf": "XBI",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "AUGO",
+   "etf": "GDX",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "NEWP",
+   "etf": "GDXJ",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "OGG",
+   "etf": "GDXJ",
+   "signal": "vol_surge_1.5x",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "BBWI",
+   "etf": "XRT",
+   "signal": "vol_surge_1.5x",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "AUGO",
+   "etf": "GDX",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "ABSI",
+   "etf": "XBI",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "SA",
+   "etf": "GDX",
+   "signal": "vol_surge_2x",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "FDMT",
+   "etf": "XBI",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "EXK",
+   "etf": "GDX",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "LUNR",
+   "etf": "XAR",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "IMNM",
+   "etf": "XBI",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "KRMN",
+   "etf": "XAR",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "BCAX",
+   "etf": "XBI",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "ORIC",
+   "etf": "XBI",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-04",
+   "age_days": 6
+  },
+  {
+   "ticker": "SVM",
+   "etf": "GDX",
+   "signal": "macd_bull",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "SVM",
+   "etf": "GDX",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "SVM",
+   "etf": "GDX",
+   "signal": "hist_positive",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "NVEC",
+   "etf": "XSD",
+   "signal": "vol_surge_2x",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "HMY",
+   "etf": "GDX",
+   "signal": "macd_bull",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "HMY",
+   "etf": "GDX",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "HMY",
+   "etf": "GDX",
+   "signal": "hist_positive",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "NVEC",
+   "etf": "XSD",
+   "signal": "vol_surge_1.5x",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "WPM",
+   "etf": "GDX",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "ASM",
+   "etf": "GDXJ",
+   "signal": "macd_bull",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "ASM",
+   "etf": "GDXJ",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "ASM",
+   "etf": "GDXJ",
+   "signal": "hist_positive",
+   "etf_fire": "2026-11-05",
+   "age_days": 5
+  },
+  {
+   "ticker": "AMLX",
+   "etf": "XPH",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "DNTH",
+   "etf": "XBI",
+   "signal": "above_ma20",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "DNTH",
+   "etf": "XBI",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "ASM",
+   "etf": "GDXJ",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "above_ma20",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "ORKA",
+   "etf": "XBI",
+   "signal": "above_ma20",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "ORKA",
+   "etf": "XBI",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "HROW",
+   "etf": "XPH",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-06",
+   "age_days": 4
+  },
+  {
+   "ticker": "ULCC",
+   "etf": "JETS",
+   "signal": "above_ma100",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "RCAT",
+   "etf": "XAR",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VRDN",
+   "etf": "XBI",
+   "signal": "above_ma50",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VRDN",
+   "etf": "XBI",
+   "signal": "price_cross_ma50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VSEC",
+   "etf": "XAR",
+   "signal": "above_ma20",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VSEC",
+   "etf": "XAR",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "PURR",
+   "etf": "XBI",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "SATL",
+   "etf": "XAR",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "GTLB",
+   "etf": "XSW",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "SANA",
+   "etf": "XBI",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "RDW",
+   "etf": "XAR",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "ETON",
+   "etf": "XPH",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "AMLX",
+   "etf": "XPH",
+   "signal": "vol_surge_2x",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "DNTH",
+   "etf": "XBI",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "PGEN",
+   "etf": "XBI",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VSEC",
+   "etf": "XAR",
+   "signal": "hist_turn_up_below_zero",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "DMRA",
+   "etf": "XBI",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "CRWV",
+   "etf": "ARKK",
+   "signal": "hist_turn_up_below_zero",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "EWTX",
+   "etf": "XPH",
+   "signal": "breakout_20d",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VSEC",
+   "etf": "XAR",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "PRAX",
+   "etf": "XBI",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "NET",
+   "etf": "HACK",
+   "signal": "hist_turn_up_below_zero",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VRDN",
+   "etf": "XBI",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "TWST",
+   "etf": "XBI",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "QURE",
+   "etf": "XBI",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VSEC",
+   "etf": "XAR",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "VRDN",
+   "etf": "XBI",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "QLYS",
+   "etf": "XSW",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "SANA",
+   "etf": "XBI",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "IOVA",
+   "etf": "XBI",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "RCAT",
+   "etf": "XAR",
+   "signal": "above_ma20",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "RCAT",
+   "etf": "XAR",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "RCAT",
+   "etf": "XAR",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "PURR",
+   "etf": "XBI",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-09",
+   "age_days": 3
+  },
+  {
+   "ticker": "PURR",
+   "etf": "XBI",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "NG",
+   "etf": "GDXJ",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "BCAX",
+   "etf": "XBI",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "PVLA",
+   "etf": "XBI",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "FTH",
+   "etf": "XBI",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "TWST",
+   "etf": "XBI",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "CLDX",
+   "etf": "XBI",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "FTH",
+   "etf": "XBI",
+   "signal": "dif_slope_up",
+   "etf_fire": "2026-11-10",
+   "age_days": 2
+  },
+  {
+   "ticker": "ZS",
+   "etf": "XSW",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "ZS",
+   "etf": "XSW",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "AYA",
+   "etf": "GDX",
+   "signal": "ma20_slope_up",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "SYNA",
+   "etf": "XSD",
+   "signal": "macd_bull",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "SYNA",
+   "etf": "XSD",
+   "signal": "macd_cross_up",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "SYNA",
+   "etf": "XSD",
+   "signal": "hist_positive",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "TTAN",
+   "etf": "XSW",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "TENB",
+   "etf": "XSW",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "QLYS",
+   "etf": "XSW",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "HUT",
+   "etf": "XSW",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "SMTC",
+   "etf": "XSD",
+   "signal": "above_ma20",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "SMTC",
+   "etf": "XSD",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "HUBS",
+   "etf": "XSW",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "HUBS",
+   "etf": "XSW",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "TTAN",
+   "etf": "XSW",
+   "signal": "rsi_cross_50_up",
+   "etf_fire": "2026-11-11",
+   "age_days": 1
+  },
+  {
+   "ticker": "IBRX",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-11-12",
+   "age_days": 0
+  },
+  {
+   "ticker": "RDW",
+   "etf": "XAR",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-12",
+   "age_days": 0
+  },
+  {
+   "ticker": "NUAI",
+   "etf": "XOP",
+   "signal": "above_ma10",
+   "etf_fire": "2026-11-12",
+   "age_days": 0
+  },
+  {
+   "ticker": "PGEN",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-11-12",
+   "age_days": 0
+  },
+  {
+   "ticker": "RCAT",
+   "etf": "XAR",
+   "signal": "near_ma20",
+   "etf_fire": "2026-11-12",
+   "age_days": 0
+  },
+  {
+   "ticker": "VIR",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-11-12",
+   "age_days": 0
+  }
+ ],
+ "pending_entries": [
+  {
+   "ticker": "HUT",
+   "etf": "XSW",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-19",
+   "stock_fire": "2026-11-12"
+  },
+  {
+   "ticker": "HUT",
+   "etf": "XSW",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-19",
+   "stock_fire": "2026-11-12"
+  },
+  {
+   "ticker": "NUAI",
+   "etf": "XOP",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-06",
+   "stock_fire": "2026-11-12"
+  },
+  {
+   "ticker": "NUAI",
+   "etf": "XOP",
+   "signal": "price_cross_ma20_up",
+   "etf_fire": "2026-10-06",
+   "stock_fire": "2026-11-12"
+  },
+  {
+   "ticker": "AMLX",
+   "etf": "XPH",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-12",
+   "stock_fire": "2026-11-12"
+  },
+  {
+   "ticker": "HUT",
+   "etf": "XSW",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-30",
+   "stock_fire": "2026-11-12"
+  }
+ ],
+ "positions": [
+  {
+   "ticker": "TENB",
+   "etf": "XSW",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-10-19",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 46.87,
+   "shares": 0.21293023085469773,
+   "exit_due": null,
+   "last_px": 41.05,
+   "unreal_pct": -12.42,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "VSEC",
+   "etf": "XAR",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-29",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 167.52,
+   "shares": 0.05957521442311175,
+   "exit_due": null,
+   "last_px": 183.62,
+   "unreal_pct": 9.61,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "AMLX",
+   "etf": "XPH",
+   "signal": "near_ma20",
+   "etf_fire": "2026-10-27",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 30.65,
+   "shares": 0.3256130479660581,
+   "exit_due": null,
+   "last_px": 29.86,
+   "unreal_pct": -2.58,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "LGIH",
+   "etf": "XHB",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-10-22",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 46.11,
+   "shares": 0.21643981609541707,
+   "exit_due": null,
+   "last_px": 41.12,
+   "unreal_pct": -10.82,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "ICLR",
+   "etf": "BBH",
+   "signal": "rsi_50_70",
+   "etf_fire": "2026-10-14",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 205.17,
+   "shares": 0.04864278364361106,
+   "exit_due": null,
+   "last_px": 200.51,
+   "unreal_pct": -2.27,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "QDEL",
+   "etf": "XHE",
+   "signal": "above_ma20",
+   "etf_fire": "2026-10-20",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 14.61,
+   "shares": 0.6830965037754744,
+   "exit_due": null,
+   "last_px": 10.62,
+   "unreal_pct": -27.31,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "VIR",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 11.68,
+   "shares": 0.854455472616411,
+   "exit_due": null,
+   "last_px": 12.12,
+   "unreal_pct": 3.77,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "CGEM",
+   "etf": "XBI",
+   "signal": "stack_5_10_20",
+   "etf_fire": "2026-10-29",
+   "stock_fire": "2026-11-02",
+   "entry_date": "2026-11-04",
+   "entry_px": 15.99,
+   "shares": 0.6241425841250582,
+   "exit_due": null,
+   "last_px": 10.19,
+   "unreal_pct": -36.27,
+   "fill_src": "google-finance-live"
+  },
+  {
+   "ticker": "SVM",
+   "etf": "GDX",
+   "signal": "macd_bull",
+   "etf_fire": "2026-10-21",
+   "stock_fire": "2026-11-04",
+   "entry_date": "2026-11-05",
+   "entry_px": 8.72,
+   "shares": 1.1163452910692377,
+   "exit_due": null,
+   "last_px": 8.95,
+   "unreal_pct": 2.64
+  },
+  {
+   "ticker": "ZETA",
+   "etf": "XSW",
+   "signal": "near_ma50",
+   "etf_fire": "2026-11-02",
+   "stock_fire": "2026-11-04",
+   "entry_date": "2026-11-05",
+   "entry_px": 31.21,
+   "shares": 0.3119042274310719,
+   "exit_due": null,
+   "last_px": 37.27,
+   "unreal_pct": 19.42
+  }
+ ],
+ "closed": [],
+ "equity_log": [
+  {
+   "date": "2026-11-04",
+   "equity": 100.285
+  },
+  {
+   "date": "2026-11-04",
+   "equity": 97.54
+  },
+  {
+   "date": "2026-11-05",
+   "equity": 92.145
+  },
+  {
+   "date": "2026-11-06",
+   "equity": 93.601
+  },
+  {
+   "date": "2026-11-09",
+   "equity": 99.32
+  },
+  {
+   "date": "2026-11-10",
+   "equity": 97.518
+  },
+  {
+   "date": "2026-11-11",
+   "equity": 98.868
+  },
+  {
+   "date": "2026-11-12",
+   "equity": 94.135
+  }
+ ],
+ "log": [
+  "2026-11-09 ARM PURR\u00d7XBI rsi_cross_50_up (ETF fired)",
+  "2026-11-10 SKIP ZETA (ma_coil_5pct): already held",
+  "2026-11-10 SKIP AMLX (near_ma50): already held",
+  "2026-11-10 SKIP ZETA (near_ma50): already held",
+  "2026-11-10 MISS JBLU (breakout_20d): no free slot",
+  "2026-11-10 SKIP ZETA (above_ma50): already held",
+  "2026-11-10 SKIP ZETA (price_cross_ma50_up): already held",
+  "2026-11-10 MISS ACRS (rsi_cross_50_up): no free slot",
+  "2026-11-10 SKIP TENB (rsi_50_70): already held",
+  "2026-11-10 MISS QLYS (rsi_50_70): no free slot",
+  "2026-11-10 MISS BCAX (dif_slope_up): no free slot",
+  "2026-11-10 MISS UAMY (vol_surge_1.5x): no free slot",
+  "2026-11-10 MISS VOYG (above_ma20): no free slot",
+  "2026-11-10 MISS VOYG (price_cross_ma20_up): no free slot",
+  "2026-11-10 MISS RMBS (hist_turn_up_below_zero): no free slot",
+  "2026-11-10 MISS SPT (near_ma50): no free slot",
+  "2026-11-10 MISS IMMX (above_ma20): no free slot",
+  "2026-11-10 MISS IMMX (price_cross_ma20_up): no free slot",
+  "2026-11-10 MISS KGC (above_ma20): no free slot",
+  "2026-11-10 MISS KGC (price_cross_ma20_up): no free slot",
+  "2026-11-10 MISS TNDM (above_ma20): no free slot",
+  "2026-11-10 MISS TNDM (price_cross_ma20_up): no free slot",
+  "2026-11-10 MISS ULCC (breakout_55d): no free slot",
+  "2026-11-10 MISS SENS (above_ma10): no free slot",
+  "2026-11-10 MISS NTSK (rsi_cross_50_up): no free slot",
+  "2026-11-10 MISS OMER (above_ma20): no free slot",
+  "2026-11-10 MISS OMER (price_cross_ma20_up): no free slot",
+  "2026-11-10 MISS SANA (above_ma20): no free slot",
+  "2026-11-10 MISS SANA (price_cross_ma20_up): no free slot",
+  "2026-11-10 MISS LUNR (above_ma20): no free slot",
+  "2026-11-10 MISS LUNR (price_cross_ma20_up): no free slot",
+  "2026-11-10 FIRE BFLY (dif_slope_up) while armed \u2192 entry at next open",
+  "2026-11-10 ARM VG\u00d7XOP hist_turn_up_below_zero (ETF fired)",
+  "2026-11-10 FIRE VG (hist_turn_up_below_zero) while armed \u2192 entry at next open",
+  "2026-11-10 ARM PURR\u00d7XBI near_ma20 (ETF fired)",
+  "2026-11-10 ARM NG\u00d7GDXJ near_ma20 (ETF fired)",
+  "2026-11-10 FIRE CRVS (hist_rising_3d) while armed \u2192 entry at next open",
+  "2026-11-10 ARM BCAX\u00d7XBI dif_slope_up (ETF fired)",
+  "2026-11-10 ARM PVLA\u00d7XBI dif_slope_up (ETF fired)",
+  "2026-11-10 ARM FTH\u00d7XBI near_ma20 (ETF fired)",
+  "2026-11-10 ARM TWST\u00d7XBI dif_slope_up (ETF fired)",
+  "2026-11-10 ARM CLDX\u00d7XBI dif_slope_up (ETF fired)",
+  "2026-11-10 ARM FTH\u00d7XBI dif_slope_up (ETF fired)",
+  "2026-11-10 EXPIRE arm AVR\u00d7XHE vol_compression (ETF fired 2026-09-28, stock never followed)",
+  "2026-11-11 MISS BFLY (dif_slope_up): no free slot",
+  "2026-11-11 MISS VG (hist_turn_up_below_zero): no free slot",
+  "2026-11-11 MISS CRVS (hist_rising_3d): no free slot",
+  "2026-11-11 FIRE VSTM (rsi_50_70) while armed \u2192 entry at next open",
+  "2026-11-11 ARM ZS\u00d7XSW rsi_cross_50_up (ETF fired)",
+  "2026-11-11 ARM ZS\u00d7XSW rsi_50_70 (ETF fired)",
+  "2026-11-11 ARM MTSI\u00d7XSD macd_bull (ETF fired)",
+  "2026-11-11 FIRE MTSI (macd_bull) while armed \u2192 entry at next open",
+  "2026-11-11 ARM MTSI\u00d7XSD macd_cross_up (ETF fired)",
+  "2026-11-11 FIRE MTSI (macd_cross_up) while armed \u2192 entry at next open",
+  "2026-11-11 ARM MTSI\u00d7XSD hist_positive (ETF fired)",
+  "2026-11-11 FIRE MTSI (hist_positive) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE AVR (above_ma20) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE AVR (price_cross_ma20_up) while armed \u2192 entry at next open",
+  "2026-11-11 ARM AYA\u00d7GDX ma20_slope_up (ETF fired)",
+  "2026-11-11 FIRE ZETA (cross_5_20_up) while armed \u2192 entry at next open",
+  "2026-11-11 ARM SYNA\u00d7XSD macd_bull (ETF fired)",
+  "2026-11-11 ARM SYNA\u00d7XSD macd_cross_up (ETF fired)",
+  "2026-11-11 ARM SYNA\u00d7XSD hist_positive (ETF fired)",
+  "2026-11-11 ARM TTAN\u00d7XSW rsi_50_70 (ETF fired)",
+  "2026-11-11 ARM TENB\u00d7XSW rsi_50_70 (ETF fired)",
+  "2026-11-11 ARM QLYS\u00d7XSW rsi_50_70 (ETF fired)",
+  "2026-11-11 FIRE AVTX (above_ma20) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE AVTX (price_cross_ma20_up) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE VOR (rsi_cross_50_up) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE ZETA (macd_bull) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE ZETA (macd_cross_up) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE ZETA (hist_positive) while armed \u2192 entry at next open",
+  "2026-11-11 ARM BE\u00d7XLI hist_rising_3d (ETF fired)",
+  "2026-11-11 FIRE BE (hist_rising_3d) while armed \u2192 entry at next open",
+  "2026-11-11 ARM HUT\u00d7XSW rsi_cross_50_up (ETF fired)",
+  "2026-11-11 FIRE IMMX (cross_5_20_up) while armed \u2192 entry at next open",
+  "2026-11-11 FIRE RDW (near_ma20) while armed \u2192 entry at next open",
+  "2026-11-11 ARM INTC\u00d7SMH dif_slope_up (ETF fired)",
+  "2026-11-11 FIRE INTC (dif_slope_up) while armed \u2192 entry at next open",
+  "2026-11-11 ARM SMTC\u00d7XSD above_ma20 (ETF fired)",
+  "2026-11-11 ARM SMTC\u00d7XSD price_cross_ma20_up (ETF fired)",
+  "2026-11-11 FIRE NUAI (above_ma10) while armed \u2192 entry at next open",
+  "2026-11-11 ARM NTSK\u00d7XSW rsi_cross_50_up (ETF fired)",
+  "2026-11-11 FIRE NTSK (rsi_cross_50_up) while armed \u2192 entry at next open",
+  "2026-11-11 ARM HUBS\u00d7XSW rsi_50_70 (ETF fired)",
+  "2026-11-11 ARM HUBS\u00d7XSW rsi_cross_50_up (ETF fired)",
+  "2026-11-11 ARM TTAN\u00d7XSW rsi_cross_50_up (ETF fired)",
+  "2026-11-11 EXPIRE arm SYRE\u00d7XBI vol_compression (ETF fired 2026-09-29, stock never followed)",
+  "2026-11-12 MISS VSTM (rsi_50_70): no free slot",
+  "2026-11-12 MISS MTSI (macd_bull): no free slot",
+  "2026-11-12 MISS MTSI (macd_cross_up): no free slot",
+  "2026-11-12 MISS MTSI (hist_positive): no free slot",
+  "2026-11-12 MISS AVR (above_ma20): no free slot",
+  "2026-11-12 MISS AVR (price_cross_ma20_up): no free slot",
+  "2026-11-12 SKIP ZETA (cross_5_20_up): already held",
+  "2026-11-12 MISS AVTX (above_ma20): no free slot",
+  "2026-11-12 MISS AVTX (price_cross_ma20_up): no free slot",
+  "2026-11-12 MISS VOR (rsi_cross_50_up): no free slot",
+  "2026-11-12 SKIP ZETA (macd_bull): already held",
+  "2026-11-12 SKIP ZETA (macd_cross_up): already held",
+  "2026-11-12 SKIP ZETA (hist_positive): already held",
+  "2026-11-12 MISS BE (hist_rising_3d): no free slot",
+  "2026-11-12 MISS IMMX (cross_5_20_up): no free slot",
+  "2026-11-12 MISS RDW (near_ma20): no free slot",
+  "2026-11-12 MISS INTC (dif_slope_up): no free slot",
+  "2026-11-12 MISS NUAI (above_ma10): no free slot",
+  "2026-11-12 MISS NTSK (rsi_cross_50_up): no free slot",
+  "2026-11-12 FIRE HUT (above_ma20) while armed \u2192 entry at next open",
+  "2026-11-12 FIRE HUT (price_cross_ma20_up) while armed \u2192 entry at next open",
+  "2026-11-12 FIRE NUAI (above_ma20) while armed \u2192 entry at next open",
+  "2026-11-12 FIRE NUAI (price_cross_ma20_up) while armed \u2192 entry at next open",
+  "2026-11-12 ARM AMLX\u00d7XPH near_ma50 (ETF fired)",
+  "2026-11-12 FIRE AMLX (near_ma50) while armed \u2192 entry at next open",
+  "2026-11-12 ARM IBRX\u00d7XBI stack_5_10_20 (ETF fired)",
+  "2026-11-12 ARM RDW\u00d7XAR near_ma20 (ETF fired)",
+  "2026-11-12 ARM NUAI\u00d7XOP above_ma10 (ETF fired)",
+  "2026-11-12 ARM PGEN\u00d7XBI stack_5_10_20 (ETF fired)",
+  "2026-11-12 FIRE HUT (near_ma20) while armed \u2192 entry at next open",
+  "2026-11-12 ARM RCAT\u00d7XAR near_ma20 (ETF fired)",
+  "2026-11-12 ARM VIR\u00d7XBI stack_5_10_20 (ETF fired)"
+ ]
+}
